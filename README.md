@@ -108,7 +108,12 @@ python bot.py
 | **Smart Diagnosis** | **Forensic PDF** |
 |:---:|:---:|
 | *Context-aware questioning* | *Professional detailed reports* |
-| ![Screen1](https://via.placeholder.com/300x500?text=Smart+Diagnosis) | ![Screen2](https://via.placeholder.com/300x500?text=PDF+Report) |
+| ![Generating Report](assets/generating_report1.png) | ![Generated PDF](assets/generated_report.png) |
+
+| **Auto-Drafter** | **Action Center** |
+|:---:|:---:|
+| *Instant legal drafts* | *Rapid response tools* |
+| ![Drafting](assets/bank_dispute_email_generation.png) | ![Action Center](assets/action_button_options.png) |
 
 ---
 
