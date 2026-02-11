@@ -9,6 +9,8 @@
 
 > *"Don't just report it. Resolve it."*
 
+[Start the Bot](https://t.me/CyberRescuebot) 🚀
+
 ---
 
 ## ⚡ Key Features
