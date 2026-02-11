@@ -80,3 +80,22 @@ Oracle provides a surprisingly generous free tier.
     - No Docker (you must use their interface/git).
     - Can only use `Polling` (Webhooks restricted).
     - CPU usage limits.
+
+---
+
+## 🕵️‍♂️ Privacy Mode (Ephemeral Hosting)
+**"I don't care if data is wiped. Privacy is key."**
+
+If you want the bot to **forget everything** (users, reports, logs) every time it restarts (approx every 24h), use these platforms without configuring storage volumes.
+
+### 1. Render.com (Free Tier)
+- **Setup**:
+    1. New **Web Service** -> Connect Repo.
+    2. Runtime: **Docker**.
+    3. Environment Variable: `TELEGRAM_TOKEN`.
+    4. **Deploy**.
+- **Result**: Bot runs 24/7 (sleeps after inactivity). Resets daily. 100% Free.
+
+### 2. Railway (No Volume)
+- **Setup**: Just deploy the repo. Don't add a volume.
+- **Result**: Faster than Render, but limited execution hours per month on free tier.
