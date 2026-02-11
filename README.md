@@ -1,5 +1,7 @@
 # 🛡️ CyberRescue Bot v4.5 (The Action Update)
 
+![Banner](assets/banner.png)
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-2CA5E0?style=for-the-badge&logo=telegram)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
