@@ -1,4 +1,4 @@
-# 🛡️ CyberRescue Bot v4.5 (The Action Update)
+# 🛡️ CyberRescue Bot v4.5 (Discontinued due to lack of resources)
 
 ![Banner](assets/banner.png)
 
